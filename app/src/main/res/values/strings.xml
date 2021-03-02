@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sisyrity</string>
+    <string name="title">Название</string>
+    <string name="discription">Описание</string>
+    <string name="photo">Url фото</string>
+    <string name="fulldiscription">Полное описание</string>
+    <string name="min_price">Минимальна цена</string>
+    <string name="max_price">Максимальная цена</string>
+</resources>
